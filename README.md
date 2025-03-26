@@ -1,6 +1,6 @@
 **📍Codings**
 
-This repository contains a collection of programming solutions implemented in **Java**, **C**, and **Dynamic Programming**. 
+This repository contains a collection of programming solutions implemented in **Java**, **C**,**Greedy** and **Dynamic Programming**. 
 These codes cover a range of fundamental and advanced concepts in programming.  
 
 **📍Folder Structure**
