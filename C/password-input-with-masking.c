@@ -2,14 +2,14 @@
 #include<conio.h>
 
 int main(){
-    char passwrd[20];
+    char password[20];
     char ch;
     int i = 0;
     printf("Enter the password:");
     while((ch = getch()) != 13){
-        passwrd[i] = ch;
+        password[i] = ch;
         i++;
         printf("* ");
     }
-    printf("\nPassword: %s", passwrd);
+    printf("\nPassword: %s", password);
 }
